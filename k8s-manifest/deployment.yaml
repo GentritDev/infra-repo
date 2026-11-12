@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: python-app
-        image: gentriti/python-app:v1
+        image: gentriti/python-app:96e7ab3
         ports:
         - containerPort: 5000
